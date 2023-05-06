@@ -9,3 +9,4 @@ Assignment 8: Microservice Implementation (Milestone 2)
 
 //How to recieve data - To recieve data, the client must request to recieve a status code and returning file name location. (ex: client.recv(SIZE).decode(FORMAT)) <-- Use this twice to recieve both sections of data. 
 
+![UML](https://user-images.githubusercontent.com/107872358/236634920-90f54ce9-fadc-4135-afdf-42fdbf7568e7.png)
